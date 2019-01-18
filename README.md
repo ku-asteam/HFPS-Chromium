@@ -13,8 +13,8 @@ Chromium Module for Highly Flexible Profiling System (`HFPS-Chromium`) is an imp
 ## Instructions
 
 * Build/Install Instructions of `HFPS-Chromium`
-  1. cd chromium/src
-  2. patch -p0 < mobed_chromium.patch
-  3. gn gen --args='target_os'="android" out/Default
-  4. ninja -C out/Default chrome_modern_public_apk
-  5. adb install chromium/src/out/Default/apks/ChromeModernPublic.apk
+1\. cd chromium/src
+2\. patch -p0 < mobed_chromium.patch
+3\. gn gen --args='target_os'="android" out/Default
+4\. ninja -C out/Default chrome_modern_public_apk
+5\. adb install chromium/src/out/Default/apks/ChromeModernPublic.apk
