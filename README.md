@@ -1,5 +1,5 @@
 # HFPS-Chromium
-Chromium Module for Highly Flexible Profiling System (HFPS)
+Chromium Module for Highly Flexible Profiling System
 
 ## Introduction
 
