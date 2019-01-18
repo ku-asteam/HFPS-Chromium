@@ -3,7 +3,7 @@ Chromium Module for Highly Flexible Profiling System (HFPS)
 
 ## Introduction
 
-Chromium Module for Highly Flexible Profiling System (`HFPS-Chromium`) is an implementation of *a*STEAM Project <https://asteam.korea.ac.kr>'s Highly Flexible Profiling System (HFPS) compatible with Chromium which is one of the open-source browser project <https://http://www.chromium.org/Home> of Google. This module extracts timing and frame data from the browser, and writes extracted data to a proc file.
+Chromium Module for Highly Flexible Profiling System (`HFPS-Chromium`) is an implementation of [*a*STEAM Project] (https://asteam.korea.ac.kr)'s Highly Flexible Profiling System (HFPS) compatible with [Chromium](https://http://www.chromium.org/Home) which is one of the open-source browser project of Google. This module extracts timing and frame data from the browser, and writes extracted data to a proc file.
 
 ## Requirements and Dependencies
 
