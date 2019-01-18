@@ -7,7 +7,7 @@ Chromium Module for Highly Flexible Profiling System (`HFPS-Chromium`) is an imp
 
 ## Requirements and Dependencies
 
-* *Chromium*: Follow the [instructions of the docs](https://chromium.googlesource.com/chromium/src/+/master/docs/android_build_instructions.md)
+* *Chromium (65.0.3317.0)*: Follow the [instructions of the docs](https://chromium.googlesource.com/chromium/src/+/master/docs/android_build_instructions.md)
 * [*ADB shell*](http://adbshell.com/)
 
 ## Build/Install Instructions
